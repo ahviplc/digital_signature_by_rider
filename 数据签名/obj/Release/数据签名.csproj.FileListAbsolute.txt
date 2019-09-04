@@ -1,0 +1,12 @@
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.csprojAssemblyReference.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.Form1.resources
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.Properties.Resources.resources
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.csproj.GenerateResource.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.csproj.CoreCompileInputs.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Release\数据签名.exe
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Release\数据签名.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Release\DigitalSignature.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Release\DigitalSignature.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.csproj.CopyComplete
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.exe
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.pdb

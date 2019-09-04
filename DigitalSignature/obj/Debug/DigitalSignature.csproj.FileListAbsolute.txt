@@ -1,0 +1,39 @@
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\DigitalSignature.dll
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\DigitalSignature.pdb
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\obj\Debug\DigitalSignature.csprojResolveAssemblyReference.cache
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\obj\Debug\DigitalSignature.dll
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\obj\Debug\DigitalSignature.pdb
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\PluSoft.dll
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\Newtonsoft.Json.Net20.dll
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\office.dll
+E:\工具\调用数据签名工具\数据签名\DigitalSignature\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\bin\Debug\DigitalSignature.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\bin\Debug\DigitalSignature.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\bin\Debug\office.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\obj\Debug\DigitalSignature.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\obj\Debug\DigitalSignature.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\DigitalSignature\obj\Debug\DigitalSignature.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\DigitalSignature.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\DigitalSignature.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\office.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\DigitalSignature.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\DigitalSignature.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\office.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.csprojAssemblyReference.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.csproj.CoreCompileInputs.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Debug\DigitalSignature.csproj.CopyComplete

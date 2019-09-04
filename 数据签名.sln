@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据签名", "数据签名\数据签名.csproj", "{AB208C95-FF45-4CAD-98FD-B6969A74F34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature", "DigitalSignature\DigitalSignature.csproj", "{AD76B4C5-9CB1-4EBD-8BC5-EB295F16D03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB208C95-FF45-4CAD-98FD-B6969A74F34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB208C95-FF45-4CAD-98FD-B6969A74F34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB208C95-FF45-4CAD-98FD-B6969A74F34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB208C95-FF45-4CAD-98FD-B6969A74F34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD76B4C5-9CB1-4EBD-8BC5-EB295F16D03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD76B4C5-9CB1-4EBD-8BC5-EB295F16D03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD76B4C5-9CB1-4EBD-8BC5-EB295F16D03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD76B4C5-9CB1-4EBD-8BC5-EB295F16D03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6175798-D96C-43C3-9784-D7CBD91F47BF}
+	EndGlobalSection
+EndGlobal

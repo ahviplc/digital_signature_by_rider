@@ -1,0 +1,11 @@
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Release\DigitalSignature.csprojAssemblyReference.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Release\DigitalSignature.csproj.CoreCompileInputs.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Release\DigitalSignature.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Release\DigitalSignature.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Release\Microsoft.Office.Interop.MSProject.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Release\Newtonsoft.Json.Net20.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Release\office.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\bin\Release\Microsoft.Vbe.Interop.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Release\DigitalSignature.csproj.CopyComplete
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Release\DigitalSignature.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\DigitalSignature\obj\Release\DigitalSignature.pdb

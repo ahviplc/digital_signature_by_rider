@@ -1,0 +1,59 @@
+E:\工具\调用数据签名工具\数据签名\数据签名\obj\Debug\数据签名.csprojResolveAssemblyReference.cache
+E:\工具\调用数据签名工具\数据签名\数据签名\obj\Debug\数据签名.Form1.resources
+E:\工具\调用数据签名工具\数据签名\数据签名\obj\Debug\数据签名.Properties.Resources.resources
+E:\工具\调用数据签名工具\数据签名\数据签名\obj\Debug\数据签名.csproj.GenerateResource.cache
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\数据签名.exe
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\数据签名.pdb
+E:\工具\调用数据签名工具\数据签名\数据签名\obj\Debug\数据签名.exe
+E:\工具\调用数据签名工具\数据签名\数据签名\obj\Debug\数据签名.pdb
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\DigitalSignature.dll
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\DigitalSignature.pdb
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\PluSoft.dll
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\Newtonsoft.Json.Net20.dll
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\office.dll
+E:\工具\调用数据签名工具\数据签名\数据签名\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\obj\Debug\数据签名.exe
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\obj\Debug\数据签名.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\数据签名.exe
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\数据签名.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\DigitalSignature.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\office.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\bin\Debug\DigitalSignature.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\obj\Debug\数据签名.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\obj\Debug\数据签名.Form1.resources
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\obj\Debug\数据签名.Properties.Resources.resources
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519\数据签名\obj\Debug\数据签名.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.exe
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\数据签名.exe
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\数据签名.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\DigitalSignature.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\office.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\DigitalSignature.pdb
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.Form1.resources
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.Properties.Resources.resources
+C:\Users\Dell\Desktop\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.csproj.GenerateResource.Cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\数据签名.exe
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\数据签名.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\DigitalSignature.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\Microsoft.Office.Interop.MSProject.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\office.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Debug\DigitalSignature.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.csprojAssemblyReference.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.Form1.resources
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.Properties.Resources.resources
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.csproj.GenerateResource.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.csproj.CoreCompileInputs.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.csproj.CopyComplete
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.exe
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Debug\数据签名.pdb
