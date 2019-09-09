@@ -41,7 +41,7 @@ namespace 数据签名
         {
             Hashtable dic = PluSoft.Utils.JSON.Decode(this.tb_param.Text.Replace("\r\n", "")) as Hashtable;
             if (dic == null) {
-                MessageBox.Show("参数不可以为空！");
+                MessageBox.Show(@"参数不可以为空！");
                 return;
             }
             dic.Add("factoryKey", this.tb_factoryKey.Text);
@@ -50,8 +50,13 @@ namespace 数据签名
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("LCRiderVerButton！");
+            MessageBox.Show(@"LCRiderVerButton！");
+            MessageBox.Show(@"警告-LCRiderVerButton！", @"Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             Console.WriteLine(1);
+            
+//            MessageBox.Show()的用法 - Amanda_Yt的博客 - CSDN博客
+//            https://blog.csdn.net/Amanda_Yt/article/details/78115660
+
         }
     }
 }

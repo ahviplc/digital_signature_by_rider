@@ -10,3 +10,4 @@ C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据�
 C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.csproj.CopyComplete
 C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.exe
 C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\obj\Release\数据签名.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\数据签名-2018-11-5 171519 ok\数据签名\bin\Release\Newtonsoft.Json.Net20.dll
