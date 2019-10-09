@@ -20,7 +20,7 @@ namespace DigitalSignature
                 return signature(timestamp, strCoalition(dic));
             }
             else {
-                return "缺少必要参数";
+                return "缺少必要json参数或者时间戳timestamp";
             }
         }
 

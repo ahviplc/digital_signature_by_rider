@@ -40,11 +40,20 @@ namespace 数据签名
         private void button1_Click(object sender, EventArgs e)
         {
             Hashtable dic = PluSoft.Utils.JSON.Decode(this.tb_param.Text.Replace("\r\n", "")) as Hashtable;
-            if (dic == null) {
-                MessageBox.Show(@"参数不可以为空！");
+            
+            if (this.tb_factoryKey.Text.Equals("")) {
+                MessageBox.Show(@"factoryKey/sauApiKey不可以为空！");
                 return;
             }
-            dic.Add("factoryKey", this.tb_factoryKey.Text);
+            
+            if (dic == null) {
+                MessageBox.Show(@"json参数不可以为空！");
+                return;
+            }
+
+            //如果checkBox1勾选了 则add进去sauApiKey 否则add进去factoryKey
+            dic.Add(checkBox1.Checked ? "sauApiKey" : "factoryKey", this.tb_factoryKey.Text);
+
             this.textBox2.Text = DigitalSignature.Sign.getSign(PluSoft.Utils.JSON.Encode(dic));
         }
 
