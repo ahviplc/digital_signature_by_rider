@@ -6,9 +6,22 @@ Fast & powerful,cross platform .NET IDE
 
 首先开发环境安装：  
 1：.NET Framework Developer pack  
+
+Download .NET Framework 4.8 | Free official downloads
+
+> https://dotnet.microsoft.com/download/dotnet-framework/net48
+
+备注:应该下载.NET Framework Developer Pack哦，才可以在rider里找到.net4.8
+
 2：.NET Core SDK  
+
 Download .NET (Linux, macOS, and Windows)
+
 > https://dotnet.microsoft.com/download
+
+Download .NET Core 3.1 (Linux, macOS, and Windows)
+
+> https://dotnet.microsoft.com/download/dotnet-core/3.1
 
 可以开发：  
 ConsoleApplication  控制台应用
